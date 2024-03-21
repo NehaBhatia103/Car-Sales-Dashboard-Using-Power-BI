@@ -10,24 +10,29 @@
 
 
 `` KPIs are ``
-- 1.Sales Overview:
+- 1.Sales Overview: 
    Year-to-Date (YTD) Total Sales
    Month-to-Date (MTD) Total Sales
   Year-over-Year (YOY) Growth in Total Sales
   Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
-2.Average Price Analysis:
-YTD Average Price
-MTD Average Price
-YOY Growth in Average Price
-Difference between YTD Average Price and PTYD Average Price
-3.Cars Sold Metrics:
-YTD Cars Sold
-MTD Cars Sold
-YOY Growth in Cars Sold
-Difference between YTD Cars Sold and PTYD Cars Sold
+  
+- 2.Average Price Analysis:
+   YTD Average Price
+   MTD Average Price
+   YOY Growth in Average Price
+   Difference between YTD Average Price and PTYD Average Price
+  
+- 3.Cars Sold Metrics:
+  YTD Cars Sold
+   MTD Cars Sold
+   YOY Growth in Cars Sold
+   Difference between YTD Cars Sold and PTYD Cars Sold
 
 
 
 ## Demo - Snapshots 
 
-![image](https://github.com/NehaBhatia103/Data-Analytics-Employee-Retention/assets/151971122/b9963230-d39e-4cf2-a3b8-3193fd10719b)
+![image](https://github.com/NehaBhatia103/Car-Sales-Dashboard-Using-Power-BI/assets/151971122/080b695d-ba30-4661-ba24-9721b177a33f)
+
+![image](https://github.com/NehaBhatia103/Car-Sales-Dashboard-Using-Power-BI/assets/151971122/819e6135-66de-44ed-88c8-6fee9c79a071)
+
