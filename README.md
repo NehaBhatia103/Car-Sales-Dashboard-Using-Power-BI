@@ -1,4 +1,4 @@
-##  HCar Sales Dashboard Using advances DAX
+##  Car Sales Dashboard Using advances DAX
 `` The objective of this project is to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions. ``
 
 `` Data Base Details: ``
@@ -13,8 +13,8 @@
 - 1.Sales Overview: 
    Year-to-Date (YTD) Total Sales
    Month-to-Date (MTD) Total Sales
-  Year-over-Year (YOY) Growth in Total Sales
-  Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
+   Year-over-Year (YOY) Growth in Total Sales
+   Difference between YTD Sales and Previous Year-to-Date (PTYD) Sales
   
 - 2.Average Price Analysis:
    YTD Average Price
